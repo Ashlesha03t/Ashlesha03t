@@ -1,3 +1,5 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
 <h1 align="center">🌸 Hi there, I'm Ashlesha Tare 🌸</h1>
 <h3 align="center">✨ An aspiring AI & Data Science Student ✨</h3>
 
