@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Data%20Science-Explorer-purple?style=for-the-badge&logo=databricks" />
   <img src="https://img.shields.io/badge/Lifelong%20Learner-Growing-blueviolet?style=for-the-badge&logo=readthedocs" />
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
  
 ---
 
