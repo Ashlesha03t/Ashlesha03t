@@ -18,6 +18,9 @@
 - ✍️ I enjoy exploring **Tech Innovations**  
 - 🌸 Fun fact: I love **Creativity, Design, and Problem-Solving!**  
 
+<br> <!-- this replaces the line so it won’t go under the image -->
+
+
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/ashlesha-tare03" target="_blank">
