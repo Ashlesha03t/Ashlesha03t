@@ -10,18 +10,13 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://fetchpik.com/images/fetchpik.com-iconscout-1ZoHAUR6M7.png"/>
- 
----
 
 ### 🌷 About Me
-
 - 🎓 Studying **Artificial Intelligence & Data Science Engineering**  
 - 💡 Currently learning **Programming & DSA**  
 - 🤝 Open to collaborating on **AI/DS Projects**  
 - ✍️ I enjoy exploring **Tech Innovations**  
 - 🌸 Fun fact: I love **Creativity, Design, and Problem-Solving!**  
-
----
 
 ## 🌐 Connect with Me  
 <p align="left">
@@ -32,8 +27,6 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="gmail" height="45"/>
   </a>
 </p>
-
----
 
 ## 💻 Languages & Tools  
 <p align="left">
@@ -60,19 +53,15 @@
 
 </p>
 
-
----
-
 ## 📊 GitHub Stats  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashlesha03t&show_icons=true&locale=en&layout=compact" alt="Ashlesha03t" />
 </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashlesha03t&show_icons=true&locale=en" alt="Ashlesha03t" /></p>
 
-
-<!-- <p>
+<!-- 
+<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlesha03t" alt="Ashlesha03t" />
 </p>
 -->
