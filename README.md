@@ -11,7 +11,8 @@
  
 ---
 
-### 🌷 About Me  
+## 🌷 About Me
+
 - 🎓 Studying **Artificial Intelligence & Data Science Engineering**  
 - 💡 Currently learning **Programming & DSA**  
 - 🤝 Open to collaborating on **AI/DS Projects**  
